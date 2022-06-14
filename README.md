@@ -108,7 +108,7 @@ Stop the app from terminal:
 
 ![App Screenshot](/images/img4.jpeg)
 ![App Screenshot](/images/img3.jpeg)
-![App Screenshot](/images/img5.jpeg)
+![App Screenshot](/images/img6.jpeg)
 
 
 ## Demo
