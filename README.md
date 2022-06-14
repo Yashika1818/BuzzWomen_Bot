@@ -32,6 +32,7 @@
 Setting up the Python Environment with dependencies:
 
 ```bash
+pip install tensorflow
 pip install flask
 pip install twilio
 pip install Translator
