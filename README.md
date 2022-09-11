@@ -113,5 +113,4 @@ Stop the app from terminal:
 
 ## Demo
 
-Insert gif or link to demo
-
+Click [here](https://www.youtube.com/watch?v=1UvltCCeWX8&feature=youtu.be) for the demo video. 
